@@ -64,11 +64,13 @@ The pipeline includes data preprocessing, feature engineering, model training, e
 - RMSE value for regression model
 
 ### Output
+[Random Forest Regression] RMSE: 6948.752645188508
 ![ML1](https://github.com/user-attachments/assets/7bb52287-adde-457a-bdf7-5c04cc2a1d26)
 ![ML2](https://github.com/user-attachments/assets/a0ff6d3e-c4f8-4185-9afa-95e21cca3830)
 ![ML3](https://github.com/user-attachments/assets/166cbf3a-9da2-4aef-9ed9-592bd4d02e30)
 ![ML4](https://github.com/user-attachments/assets/fde39ac8-c45e-43e0-80a8-3ab9d9dd6ef6)
 ![ML5](https://github.com/user-attachments/assets/9673a91c-60b2-43dc-9a71-38c48cccb2e5)
+![image](https://github.com/user-attachments/assets/05f1fc87-e7c4-4c3e-875b-cf0d492a68a1)
 
 
 
